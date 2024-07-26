@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SpeakBridge.**
 
-- 🌱 I’m currently mastering **DSA, MERN, Deep Learning**
+- 🌱 I’m currently learning **DSA, MERN, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shivamdaksh](https://linktr.ee/shivamdaksh)
 
